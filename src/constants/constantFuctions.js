@@ -1,0 +1,12 @@
+const TICKET_ID_PREFIX = 'TID-';
+const COMPLAINT_ID_PREFIX ='CID';
+const REFUND_ID_PREFIX = 'RID-';
+const INVOICE_ID_PREFIX = 'IID-';
+
+module.exports = {
+    TICKET_ID_PREFIX,
+    COMPLAINT_ID_PREFIX,
+    REFUND_ID_PREFIX,
+    INVOICE_ID_PREFIX
+}
+
